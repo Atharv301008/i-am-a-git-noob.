@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 first line in file
 second line in file
 Third line in file
-=======
-first line in file
->>>>>>> 3b1dfbc171c51e7ccc7c3efa90e00e7fadb7cf00
+
